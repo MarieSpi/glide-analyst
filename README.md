@@ -2,6 +2,6 @@
 Web app to import, process and visualize flight traces from GPS data.
 
 ## MVP v0.1
-- Import an ASCII file that contains 'time', 'x', 'y', 'z'
-- Process the vertical and horizontal trajectory, and the vertical, horizontal and on trajectory speed
-- Display two plots/graphs: speed vs time, and z vs time
+- Import a CSV file containing `time`, `x`, `y`, `z`
+- Compute vertical and horizontal trajectories, and vertical, horizontal, and total speed
+- Display two plots: speed vs time, and altitude (z) vs time
