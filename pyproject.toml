@@ -1,0 +1,12 @@
+[project]
+name = "glide-analyst"
+version = "0.1.0"
+
+authors = [
+  {name = "MarieSPIT", email = "marie.sptoni@protonmail.com"},
+]
+description = "Web app to import, process and visualize flight traces from GPS data."
+readme = { file = "README.md", content-type = "text/markdown" }
+license = "MIT"
+license-files = ["LICENSE.md"]
+requires-python = ">=3.10"
